@@ -1,6 +1,6 @@
 # Find the square root of a number
-NAME: SAI VISHAL D REF.NO.: 23013576
-
+NAME: SAI VISHAL D<BR>
+REG.NO: 212223230180
 ## AIM:
 To write a program to find the square root of a number.
 
